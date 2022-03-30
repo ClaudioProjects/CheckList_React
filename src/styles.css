@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tarefa {
+  @apply w-11/12 h-10 border-2 mx-auto my-1 p-1 bg-white shadow-md shadow-gray-200 rounded-xl hover:bg-emerald-50;
+}
+
+.focusInput {
+  @apply border-2 border-solid focus:border-emerald-100
+}
+
+.inputEdit {
+  @apply absolute left-1 bg-inherit outline-none w-3/4
+}
+
+.errorText {
+  @apply text-red-400 text-center mx-auto block
+}
+
+.focus {
+  @apply border-emerald-300
+}
