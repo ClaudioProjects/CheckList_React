@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Checklist com React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Primeiro projeto com react, uma lista de tarefas que são salvas no localstorage 
 
-## Available Scripts
+## Como usar
 
-In the project directory, you can run:
+Basta inserir o nome da tarefa no campo acima e adicionar a tarefa, para editar basta clickar no icone de lapis, clicar na tarefa, mudar para o nome de sua preferencia e clickar no icone de lapiz novamente para confirmar a edição
 
-### `npm start`
+## Deploy
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Entre no link abaixo para acessar o projeto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+https://checklist-react-cjo.netlify.app/
 
-### `npm test`
+## Imagens demonstrativas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Tela inicial
 
-### `npm run build`
+![image](https://user-images.githubusercontent.com/95532270/160839204-2b7807bc-a0b1-444a-b433-44799df6176d.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tarefa criada
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/95532270/160838945-8b7e8ac5-4539-4bd3-ad67-b0910d104880.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Tarefa editada
 
-### `npm run eject`
+![image](https://user-images.githubusercontent.com/95532270/160839102-ec2a4160-ccc2-40f0-9ed8-2821529ec443.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Baixar o projeto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Caso queira ter acesso as pastas do projeto em seu computador, siga os seguintes etapas
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Etapa 1 | Clonar o repositorio |
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Abra o terminal no seu computador e execute o comando abaixo
 
-## Learn More
+#### git clone https://github.com/ClaudioProjects/CheckList_React.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Etapa 2 | Abrir o terminal na pasta |
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Abra o terminal na pasta importado e execute o comando abaixo, para instalar a pasta node_modules
 
-### Code Splitting
+#### npm i
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Etapa 3 | Executar a aplicação |
 
-### Analyzing the Bundle Size
+Ainda no terminal com a pasta importada selecionad, execute o comando a baixo para ter a aplicação sendo executada
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+#### npm run start
 
-### Making a Progressive Web App
+Com isso chegamos ao fim da explicação, apartir daqui você pode alterar o projeto e fazer quaisquer modificações nele
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contato 
 
-### Advanced Configuration
+Caso tenha se interessado nas minhas habilidades, vou deixar o meu contado aqui
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Email: claudiodevcontact@gmail.com
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Linkedin: https://www.linkedin.com/in/claudio-junior-olimpio-324308227/
